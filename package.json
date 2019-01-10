@@ -2,10 +2,10 @@
 	"name": "fcc-learn-npm-package-json",
 	"author": "Christian Rosa",
 	"description": "FCC exercise package",
-	
 	"dependencies": {
 		"express": "^4.14.0"
 	},
+	"keywords" : ["educational","FCC","freecodecamp"],
 	"main": "server.js",
 	"scripts": {
 		"start": "node server.js"
